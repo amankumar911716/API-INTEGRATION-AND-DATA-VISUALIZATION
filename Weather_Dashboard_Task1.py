@@ -78,10 +78,3 @@ plt.gca().xaxis.set_major_formatter(mdates.DateFormatter('%d %b %H:%M'))
 plt.tight_layout()
 plt.savefig("weather_dashboard.png", dpi=300)
 plt.show()
-
-
-# -------------------------
-# OUTPUT 
-# -------------------------
-# Enter City Name: Delhi
-
